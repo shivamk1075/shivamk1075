@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am Shivam Kumar pursuing B.Tech in Mechanical Engineering, IIT (BHU), Varanasi (2027)  
-Having With interest in Competitive Programming, Machine Learning, and Computer Vision 
+Having With interest in Competitive Programming, Machine Learning, and Computer Vision  
 Currently mastering flute.
 Based in Varanasi
 
