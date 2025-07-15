@@ -1,4 +1,16 @@
 ## Hi there 👋
+I am Shivam Kumar pursuing B.Tech in Mechanical Engineering, IIT (BHU), Varanasi (2027)  
+Having With interest in Competitive Programming, Machine Learning, and Computer Vision 
+Currently mastering flute.
+Based in Varanasi
+
+### Skills
+- Python, C++, C  
+- NumPy, Pandas, TensorFlow, Keras, Scikit-Learn, Streamlit  
+
+Some achievements.
+- Top 50 – Zelestra x AWS ML Ascend Challenge  
+- Global Rank 2524 in Codeforces Round 1036 (Div. 1 + 2)
 
 <!--
 **shivamk1075/shivamk1075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
