@@ -10,7 +10,7 @@ Based in Varanasi
 
 Some achievements.
 - Top 50 – Zelestra x AWS ML Ascend Challenge  
-- Global Rank 2524 in Codeforces Round 1036 (Div. 1 + 2)
+-  Secured Global Rank 349 out of 26,287 participants in CodeChef Starters 155
 
 <!--
 **shivamk1075/shivamk1075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
