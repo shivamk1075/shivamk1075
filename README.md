@@ -1,28 +1,36 @@
-## Hi there 👋
-I am Shivam Kumar pursuing B.Tech in Mechanical Engineering, IIT (BHU), Varanasi (2027)  
-Have interest in Competitive Programming, Machine Learning, and Computer Vision  
-Currently mastering flute.
-Based in Varanasi
+# Shivam Kumar
+
+B.Tech Mechanical Engineering · IIT (BHU) Varanasi · 2027
+
+Interested in machine learning, computer vision, and competitive programming.  
+Currently mastering the flute.
+
+---
 
 ### Skills
-- Python, C++, C  
-- NumPy, Pandas, TensorFlow, Keras, Scikit-Learn, Streamlit  
 
-Some achievements.
-- Top 50 – Zelestra x AWS ML Ascend Challenge  
--  Secured Global Rank 349 out of 26,287 participants in CodeChef Starters 155
+**Languages** — Python · C++ · C  
+**ML / DL** — TensorFlow · Keras · Scikit-Learn · PyTorch · HuggingFace Transformers  
+**Data** — NumPy · Pandas · OpenCV  
+**Tools** — Streamlit · Flask · React · OSMnx · FFmpeg
 
-<!--
-**shivamk1075/shivamk1075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description |
+|---|---|
+| [Safety-Check](https://github.com/shivamk1075/Safety-Check) | Satellite + OSM + YOLOv7 pipeline to detect illegal dumping sites from GPS coordinates |
+| [Right-To-Music](https://github.com/shivamk1075/Right-To-Music) | Audio fingerprinting system inspired by Shazam — FFT-based song identification from 5s snippets |
+| [Ranking-YT-tutorials](https://github.com/shivamk1075/Ranking-YT-tutorials) | NLP pipeline using fine-tuned DistilBERT to rank YouTube tutorials by comment sentiment |
+| [LPBF-defect-detection](https://github.com/shivamk1075/LPBF-defect-detection) | CT-scan based defect detection algorithm for post-process quality inspection of 3D printed parts |
+| [Skin-Cancer-Prediction](https://github.com/shivamk1075/Skin-Cancer-Prediction) | Binary skin cancer classification using NASNet on dermoscopy images |
+| [IMDB-Review-Sentiment-Analysis](https://github.com/shivamk1075/IMDB-Review-Sentiment-Analysis) | Sentiment classifier trained on IMDB reviews |
+| [StorySummariser](https://github.com/shivamk1075/StorySummariser) | Extractive and abstractive text summarisation tool |
+| [Loan-Risk-Model](https://github.com/shivamk1075/Loan-Risk-Model) | Loan default risk model — submission for Statistella Case Study Competition |
+
+---
+
+### Contact
+
+[shivam.kumar.101075@gmail.com](mailto:shivam.kumar.101075@gmail.com) · [LinkedIn](https://linkedin.com/in/shivam-kumar-2a45ba2a1)
