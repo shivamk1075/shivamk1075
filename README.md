@@ -1,39 +1,48 @@
-<h1 align="center">Shivam ⚡</h1>
+<div align="center">
+  <h1>Shivam <span>|</span> Data & Systems</h1>
+  <p><i>IIT BHU • Architecting Backend Systems • Training Predictive Models</i></p>
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Science+%2B+Machine+Learning;Full-Stack+MERN+Engineering;Architecting+Scalable+Backends;Solving+Complex+Logic..." alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
+### 🏗️ Engineering Stack
 
-<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Data Science & Analytics</b><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,pandas,scikit,mysql,postgres,aws&theme=dark" />
+      </a><br><br>
+      <i>Extracting signal from noise. Focused on predictive modeling, statistical analysis, and data pipelines.</i>
+    </td>
+    <td width="50%" valign="top">
+      <b>Software Engineering (Full-Stack)</b><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongo,tailwind&theme=dark" />
+      </a><br><br>
+      <i>Building scalable architecture. Handling complex state management, secure auth, and RESTful API design.</i>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">🛠️ Tech Arsenal</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nodejs,express,mongo,tailwind,redux,git,github,linux,mysql,docker,aws&perline=8" alt="Tech Stack Grid" />
-  </a>
-</p>
+### ⚙️ Current Focus
 
-<br/>
+- 🔭 **Architecting:** A full-stack off-campus housing platform (MERN) with secure JWT sessions and advanced search indexing.
+- 🧠 **Optimizing:** Advanced Graph & Dynamic Programming paradigms for placement preparation.
+- 🤝 **Interested In:** Roles that bridge the gap between deploying machine learning models and building the web infrastructure to support them.
 
-<h3 align="center">📊 GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamk1075&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamk1075&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamk1075&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-</p>
+<br>
 
-<br/>
+### 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamk1075&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=shivamk1075&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamk1075&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
