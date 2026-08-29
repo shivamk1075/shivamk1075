@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="center">Languages & Frameworks</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
   <!-- Core Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/> &nbsp;&nbsp;
@@ -53,7 +53,7 @@
 
 <br>
 
-<h3 align="center">Databases & Tooling</h3>
+<h3 align="center">Databases</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/> &nbsp;&nbsp;
