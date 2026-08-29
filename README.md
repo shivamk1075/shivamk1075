@@ -1,69 +1,39 @@
-<div align="left">
-  <h1 style="border-bottom: none; font-weight: 600;">S H I V A M</h1>
-  <p><b>SYS. ARCHITECTURE ⸻ DATA SCIENCE ⸻ ALGORITHMIC OPTIMIZATION</b></p>
-</div>
+<h1 align="center">Shivam Kumar</h1>
 
-> **System Directive:** Bridging predictive data modeling with the scalable backend infrastructure required to deploy it. Currently focused on high-level algorithmic efficiency and robust full-stack architecture.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Science+%2B+Machine+Learning;Full-Stack+MERN+Engineering;Architecting+Scalable+Backends;Solving+Complex+Logic..." alt="Typing SVG" />
+  </a>
+</p>
 
-<br>
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
-### 01 / CORE STACK
-*Unified environment parameters.*
+<br/>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Data & ML</b><br><br>
-      <img src="https://img.shields.io/badge/Python-1A1B27?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Pandas-1A1B27?style=flat-square&logo=pandas&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-1A1B27?style=flat-square&logo=scikitlearn&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <b>Backend Systems</b><br><br>
-      <img src="https://img.shields.io/badge/Node.js-1A1B27?style=flat-square&logo=nodedotjs&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Express.js-1A1B27?style=flat-square&logo=express&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C++-1A1B27?style=flat-square&logo=cplusplus&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-1A1B27?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <b>Client & State</b><br><br>
-      <img src="https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Redux-1A1B27?style=flat-square&logo=redux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Tailwind-1A1B27?style=flat-square&logo=tailwindcss&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-1A1B27?style=flat-square&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">🛠️ Tech Arsenal</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nodejs,express,mongo,tailwind,redux,git,github,linux,mysql,docker,aws&perline=8" alt="Tech Stack Grid" />
+  </a>
+</p>
 
-<br>
+<br/>
 
-### 02 / ACTIVE DEVELOPMENT
-*Current execution environment and architectural implementations.*
+<h3 align="center">📊 GitHub Analytics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamk1075&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamk1075&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamk1075&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+</p>
 
-<details>
-  <summary><b>[+] Architecture: Distributed Housing Platform (MERN)</b></summary>
-  <blockquote style="margin-top: 10px;">
-    Engineered a highly responsive property indexing system focusing on secure state management and dynamic NoSQL querying.<br><br>
-    <b>Authentication Layer:</b> Implemented stateless JWT handling combined with Google OAuth for secure, lightweight session management.<br>
-    <b>State Persistence:</b> Integrated Redux Toolkit and Redux Persist to maintain strict, immutable client-side state across reloads.<br>
-    <b>API & Querying:</b> Built optimized RESTful routes handling multi-parameter filtering, regex search indexing, and secure image processing.
-  </blockquote>
-</details>
+<br/>
 
-<details>
-  <summary><b>[+] Algorithmic Optimization (DSA)</b></summary>
-  <blockquote style="margin-top: 10px;">
-    Executing heavy practice regimens in algorithmic problem solving. Focusing on structural optimizations involving Graph Traversal, Dynamic Programming, and Advanced Tree Structures to minimize space/time complexities in production environments.
-  </blockquote>
-</details>
-
-<br>
-
-### 03 / METRICS
-*Commits and language distributions.*
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamk1075&theme=transparent&hide_border=true&title_color=A9B1D6&text_color=787C99&icon_color=7AA2F7&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamk1075&theme=transparent&hide_border=true&title_color=A9B1D6&text_color=787C99&layout=compact" width="48%" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivamk1075&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+</p>
