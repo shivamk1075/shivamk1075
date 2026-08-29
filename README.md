@@ -1,8 +1,8 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivamk1075&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
+
   <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shivam! </h1>
   <p><b>Likes to work on Data & Software problems</b></p>
-  <!-- <p><i>Building predictive machine learning models and the scalable software infrastructure to deploy them.</i></p> -->
-  
   <br>
 
   <a href="mailto:shivam.kumar.101075@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -12,15 +12,10 @@
 
 <br><br>
 
-<!-- <div align="center">
-  <h2>✦  ✦</h2>
-</div> -->
-
 <br>
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <!-- Core Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/> &nbsp;&nbsp;
@@ -28,7 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" width="40" height="40"/> &nbsp;&nbsp;
-  <!-- ML / Data -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title="PyTorch" width="40" height="40"/> &nbsp;&nbsp;
@@ -37,7 +31,6 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" title="Optuna" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" title="Ollama" width="40" height="40"/> &nbsp;&nbsp;
-  <!-- Web / App -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" width="40" height="40"/> &nbsp;&nbsp;
@@ -68,6 +61,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gazebo_logo.svg" title="Gazebo" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" title="Blender" width="40" height="40"/>
 </p>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamk1075&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub Stats" />
+</div>
 
 <br>
 <p align="center"><i>Let's connect and build something great.</i></p>
