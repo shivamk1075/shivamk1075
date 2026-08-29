@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi there, I'm Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  <p><b>Data Scientist ⸻ Full-Stack Engineer ⸻ IIT BHU</b></p>
+  <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shivam! </h1>
+  <p><b>I do work over Machine Learning + Software Development problems</b></p>
   <br>
-  <p><i>Welcome to my digital workspace!</i></p>
+  <!-- <p><i>Welcome to my digital workspace!</i></p> -->
 </div>
 
 <br><br>
@@ -13,7 +13,7 @@
 
 <br>
 
-<h3 align="center"> Machine Learning + Software Development </h3>
+<h3 align="center"> Machine Learning </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" width="40" height="40"/> &nbsp;&nbsp;
