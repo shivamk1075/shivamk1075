@@ -65,7 +65,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamk1075&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamk1075&show_icons=true&hide_border=true&theme=transparent&cache_seconds=1" alt="GitHub Stats" />
 </div>
 
 <br>
